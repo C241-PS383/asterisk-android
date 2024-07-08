@@ -2,13 +2,13 @@
 [![Github Release](https://github.com/C241-PS383/asterisk-android/actions/workflows/release.yml/badge.svg?branch=master)](https://github.com/C241-PS383/asterisk-android/releases)
 
 ## Repository of Asterisk Mobile Development
-![AsteriskDesign](https://github.com/C241-PS383/asterisk-android/blob/master/assets/asterisk_design.png)
+![AsteriskDesign](https://github.com/C241-PS383/asterisk-android/blob/main/assets/asterisk_design.png)
 
 ## User Flow
-![AsteriskUserFlow](https://github.com/C241-PS383/asterisk-android/blob/master/assets/user_flow.png)
+![AsteriskUserFlow](https://github.com/C241-PS383/asterisk-android/blob/main/assets/user_flow.png)
 
 ## Android Architecture
-![AsteriskAndroidArchitecture](https://github.com/C241-PS383/asterisk-android/blob/master/assets/android_architecture.png)
+![AsteriskAndroidArchitecture](https://github.com/C241-PS383/asterisk-android/blob/main/assets/android_architecture.png)
 
 ## Figma Design
 <p>
