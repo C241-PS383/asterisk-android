@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Asterisk</string>
+
+    <string name="register">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="title_welcome">Selamat Datang di Asterisk!</string>
+    <string name="message_welcome">Mau berbagi ilmu tentang Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Di Dicoding Story aja!</string>
+
+    <string name="title_register">Lengkapi data dirimu di bawah ini!</string>
+    <string name="message_register">Ayo daftar 👋</string>
+    <string name="title_login">Selamat Datang!</string>
+    <string name="message_login">Ayo masuk 👋</string>
+    <string name="username">Username</string>
+    <string name="fullname">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="error_password">Password tidak boleh kurang dari 8 karatker!</string>
+    <string name="error_email">Email yang dimasukkan salah!</string>
+
+    <string name="success">Berhasil!</string>
+    <string name="register_success">Akun sudah siap. Yuk bagikan reviewmu di Asterisk!</string>
+    <string name="login_success">Anda berhasil login. Yuk bagikan reviewmu di Asterisk!</string>
+    <string name="failed">Maaf</string>
+    <string name="register_failed">Akun gagal dibuat, silakan daftar ulang.</string>
+    <string name="login_failed">Anda gagal login, silakan login ulang.</string>
+    <string name="next">Lanjut</string>
+    <string name="back">Balik</string>
+
+    <string name="logout">Logout</string>
+    <string name="valid_logout">Apakah Anda yakin ingin keluar?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+
+    <string name="hello">Halo,</string>
+    <string name="name_restaurant">Nama Restoran</string>
+    <string name="address_restaurant">Lokasi Restoran</string>
+    <string name="photo_restaurant">Foto Restoran</string>
+    <string name="detail_restaurant">%s</string>
+
+    <string name="add_review">Tambahkan Ulasan</string>
+    <string name="submit">Submit</string>
+    <string name="empty_input">Silakan masukkan ulasan terlebih dahulu.</string>
+    <string name="title_detail">Detil</string>
+    <string name="title_review">Ulasan</string>
+    <string name="title_my_review">Ulasan Saya</string>
+    <string name="subtitle_review">Berikan Ulasan</string>
+    <string name="message_review">Belum ada ulasan</string>
+    <string name="hint_review">Masukkan ulasan Anda di sini...</string>
+
+    <string name="title_profile">Profil</string>
+    <string name="username_profile">Username</string>
+    <string name="full_name_profile">Nama Lengkap</string>
+    <string name="email_profile">Email</string>
+    <string name="detail_profile">%s</string>
+
+    <string name="retry">Coba lagi</string>
+    <string name="timeout">Waktu habis</string>
+    <string name="map_error">Terjadi kesalahan</string>
+</resources>
